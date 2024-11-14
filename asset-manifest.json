@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Africa-Real-Estate/static/css/main.496aede7.css",
+    "main.js": "/Africa-Real-Estate/static/js/main.96fe3fb6.js",
+    "static/js/453.ee4e9031.chunk.js": "/Africa-Real-Estate/static/js/453.ee4e9031.chunk.js",
+    "index.html": "/Africa-Real-Estate/index.html",
+    "main.496aede7.css.map": "/Africa-Real-Estate/static/css/main.496aede7.css.map",
+    "main.96fe3fb6.js.map": "/Africa-Real-Estate/static/js/main.96fe3fb6.js.map",
+    "453.ee4e9031.chunk.js.map": "/Africa-Real-Estate/static/js/453.ee4e9031.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.496aede7.css",
+    "static/js/main.96fe3fb6.js"
+  ]
+}
