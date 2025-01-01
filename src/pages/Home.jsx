@@ -14,7 +14,7 @@ const properties = [
   {
     id: 2,
     title: 'City Apartment',
-    description: 'A modern apartment in the heart of downtown.',
+    description: ' Modern apartment in the heart of downtown.',
     price: '100,000',
     image: 'https://th.bing.com/th/id/OIP.no0nQCRwQW-hoIf3qBptYAHaE7?w=319&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
   },
